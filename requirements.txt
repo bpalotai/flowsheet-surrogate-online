@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+xlsxwriter
+openpyxl
+joblib
+tensorflow
+keras
+pywin32
+smt
